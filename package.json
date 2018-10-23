@@ -1,17 +1,17 @@
 {
-  "name": "songbook-site",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "author": "",
-  "license": "ISC",
+	"name": "songbook-site",
+	"version": "1.0.0",
+	"description": "",
   "dependencies": {
     "async": "^2.6.1",
     "express": "^4.16.3"
   },
+	"main": "index.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"author": "",
+	"license": "ISC",
   "engines": {
     "node": "6.9.2"
   }
